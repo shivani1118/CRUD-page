@@ -1,5 +1,5 @@
-# CURD page
- Create, update, read and delete operations with javascript.
+# CRUD page
+ Create, read, update and delete operations with javascript.
 
 This folder contains 4 sub-folders named :-
 1. Image folder
